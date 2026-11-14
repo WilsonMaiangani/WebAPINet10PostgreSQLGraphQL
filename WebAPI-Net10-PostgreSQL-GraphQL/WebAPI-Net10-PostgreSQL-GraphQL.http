@@ -1,0 +1,6 @@
+@WebAPI_Net10_PostgreSQL_GraphQL_HostAddress = http://localhost:5018
+
+GET {{WebAPI_Net10_PostgreSQL_GraphQL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
